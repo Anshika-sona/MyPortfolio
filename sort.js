@@ -1,2 +1,3 @@
-const x = ["2", "3" , "1"];
-s.sort();
+
+const sort_stuff = ["1" , "3", "5"];
+sort_stuff.sort();
